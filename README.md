@@ -1,2 +1,24 @@
-# crud-fromCSV-vuejs
-É gerado uma API a partir de um arquivo CSV e é possível efetuar a leitura, inserção, remoção e edição de linhas da coluna.
+# crud
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
